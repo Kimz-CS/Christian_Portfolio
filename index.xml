@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Christian Shiku</title>
+    <link>https://kimz-cs.github.io/Christian_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Christian Shiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://kimz-cs.github.io/Christian_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project VI: Artificial Intelligence ChatBot with Python</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-6/</link>
+      <pubDate>Sat, 21 Nov 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-6/</guid>
+      <description>Recently, new tools designed to simplify the interaction between humans and computers have hit the market: Chatbots or Virtual Assistants. In banking, chatbots and virtual assistants are some of the industry’s newest tools designed to simplify the interaction between humans and computers.
+What are ChatBots? A computer program anybody can talk to with normal language.
+No matter what type of chatbot it is, they all have a similar purpose &amp;ndash; to take regular human language input, understand what is being said and to provide a relevant, correct answer based on the knowledge it has.</description>
+    </item>
+    
+    <item>
+      <title>Project V: WhatsApp Group Analysis</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-5/</link>
+      <pubDate>Thu, 19 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-5/</guid>
+      <description>This is a simple python project which aims at analysing various features of my WhatsApp group chat Bholatto-Bholatto, such as:
+ The most active chatter Most busy time period Messages per user Most Emojis used in the Group Emoji Distribution Person wise Emoji Distribution Day wise distribution Time series of Messages Chatter Time when group members are most active Word cloud  Group analysis Group Wise Stats    Description #     Messages: 5978   Media: 0   Emojis: 3327   Links: 6    The media = 0; because I opted against exporting Media from WhatsApp.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Movie recommendation system</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-4/</link>
+      <pubDate>Thu, 15 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-4/</guid>
+      <description>Recommendation Systems Recommender systems are machine learning systems that help users discover new product and services. Every time you shop online, a recommendation system is guiding you towards the most likely product you might purchase.
+Recommender systems are an essential feature in our digital world, as users are often overwhelmed by choice and need help finding what they&amp;rsquo;re looking for. This leads to happier customers and, of course, more sales. Recommender systems are like salesmen who know, based on your history and preferences, what you like.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Project 3: Analysing Zoom&#39;s Stock Price </title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 11 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-3/</guid>
+      <description>ith millions of people being forced to stay home to help stop the spread of COVID-19, many have found creative ways to virtually stay connected through business meetings, church gatherings and birthday parties. And Zoom, one of the dozens of video conferencing services, has risen to the top, thanks to intense separation measures and a profound resonance within this new social distancing culture.
+In this project I use Linear and Decision Tree Regression models to analyse the stock price of Zoom.</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Time Series Forecasting using FB Prophet and LSTM models</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-7/</link>
+      <pubDate>Sun, 30 Aug 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-7/</guid>
+      <description>In this project I am comparing two models the Facebook Prophet model and Long short term memory (LSTM) model to predict confirmed cases of Covid-19 in South Africa.
+Time Series and Forecasting models Traditionally most machine learning (ML) models use as input features some observations (samples / examples) but there is no time dimension in the data. Time-series forecasting models are the models that are capable to predict future values based on previously observed values.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Analysing my Facebook Activity</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 10 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-1/</guid>
+      <description>As of Q2 2020, Facebook claims more than 2.7 billion active users. That means that if you&amp;rsquo;re reading this article, chances are you&amp;rsquo;re a Facebook user. But just how much of a Facebook user are you? How much do you really post? We can find out using Python!
+Specifically, I am going to use Python to create this — a chart that shows how often I have posted each month over time:</description>
+    </item>
+    
+    <item>
+      <title>Project II: Visualizing the spread of Corona Virus in South Africa</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 05 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/post/project-2/</guid>
+      <description>In this project I worked on the Covid-19 data set mined from the John Hopkins University repository with main focus on the South African cases.
+My objective in this project was to visualise how the novel corona virus progressed across time through all the provinces of South Africa. To create the visualization I used Geopandas and Python to give a GIF Animation output showing how the virus spread across the country.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kimz-cs.github.io/Christian_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kimz-cs.github.io/Christian_Portfolio/contact/</guid>
+      <description>I will be thrilled to here from you!
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
